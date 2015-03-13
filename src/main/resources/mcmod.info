@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutorialbrancake",
+  "name": "Brancakes Galore",
+  "description": "Just following a tutorial... Nothing to see here.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Me and my cat I guess",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

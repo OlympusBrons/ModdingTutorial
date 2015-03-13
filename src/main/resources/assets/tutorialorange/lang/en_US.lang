@@ -1,0 +1,18 @@
+tile.tutorialorange_orangeBlock.name=Orange Block
+tile.JBlock.name=Best Friend
+tile.BlockCheese.name=Cheese block
+
+item.ItemTable.name=Table
+item.ItemChessboard.name=Chess board
+item.ItemLightsaber.name=Light Saber
+item.ItemCheese.name=Cheese
+item.ItemGrilledCheese.name=Grilled Cheese
+
+item.ItemCheesePickaxe.name=Cheese Pickaxe
+item.ItemCheeseAxe.name=Cheese Axe
+item.ItemCheeseShovel.name=Cheese Shovel
+item.ItemCheeseHoe.name=Cheese Hoe
+item.ItemCheeseSword.name=Cheese
+item.ItemCheeseStick.name=Cheese stick
+
+itemGroup.tabTutorialMod=Tutorial Mod FOOD!
